@@ -1,0 +1,5 @@
+﻿Sid,145,happy,tabo,false
+Lucy,125,bored,catar,true
+Bill,934,sad,silva,true
+Cal,100,angry,dewa,false
+Fred,150,happy,capar,true
